@@ -50,7 +50,15 @@ The primary objective of this project was to build a fully functional, cloud-int
 * **YAML/JSON:** Configuration of filebeat, pipelines, and API integrations
 
 ---
-
+### Network Architecture Diagram
+to add..
+---
+### Key Results
+to add..
+---
+### Screenshots
+to add..
+---
 ### Future Improvements
 To further evolve this project into an enterprise-grade monitoring solution, the following enhancements are planned:
 * **Active Response:** Configure Wazuh to automatically trigger active response scripts (e.g., isolating the host or killing the malicious process) immediately upon detecting a high-severity threat.
