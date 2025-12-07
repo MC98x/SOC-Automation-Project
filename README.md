@@ -80,8 +80,8 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 ![Wazuh Alert](./Key-Screenshots/2-Wazuh-Mimikatz-Alert.png)
 
 #### 3. The Orchestration: Shuffle SOAR Workflow
-*The automated playbook in action. This visualizes the data flow from the Wazuh Alert (Webhook) -> Regex Hash Extraction -> VirusTotal API Lookup -> TheHive Case Creation.*
-![Shuffle Workflow](./Key-Screenshots/3-Shuffle-Workflow-Success.png)
+*The automated playbook in action. This workflow demonstrates key SOAR capabilities, including **Regex Hash Extraction** for indicator of compromise (IOC) isolation, and **VirusTotal Enrichment** for automated reputation scoring, before creating the case.*
+![Shuffle Workflow](./Key-Screenshots/3-Shuffle-Workflow-Success-Annotated.png)
 
 #### 4. The Response: TheHive Case Management
 *The final output where the incident is logged. The alert includes the enriched data (VirusTotal score) allowing for immediate triage decisions.*
