@@ -70,23 +70,24 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 
 #### 1. The Attack: Mimikatz Execution
 *Simulating a credential dumping attack on the Windows 11 endpoint using PowerShell. This generates the raw telemetry required for detection.*
-![Mimikatz Execution](1-Mimikatz-Execution.png)
+![Mimikatz Execution](./Key-Screenshots/1-Mimikatz-Execution.png)
 
 #### 2. The Detection: Wazuh Security Events
 *The Wazuh Manager successfully ingesting the Sysmon logs and triggering the custom "Mimikatz Usage Detected" alert based on the XML rule configuration.*
-![Wazuh Alert](2-Wazuh-Mimikatz-Alert.png)
+![Wazuh Alert](./Key-Screenshots/2-Wazuh-Mimikatz-Alert.png)
 
 #### 3. The Orchestration: Shuffle SOAR Workflow
 *The automated playbook in action. This visualizes the data flow from the Wazuh Alert (Webhook) -> Regex Hash Extraction -> VirusTotal API Lookup -> TheHive Case Creation.*
-![Shuffle Workflow](3-Shuffle-Workflow-Success.png)
+![Shuffle Workflow](./Key-Screenshots/3-Shuffle-Workflow-Success.png)
 
 #### 4. The Response: TheHive Case Management
 *The final output where the incident is logged. The alert includes the enriched data (VirusTotal score) allowing for immediate triage decisions.*
-![TheHive Case](4-TheHive-Case-Alert.png)
+![TheHive Case](./Key-Screenshots/4-TheHive-Case-Alert.png)
 
 #### 5. Analyst Notification: Real-Time Email
 *An example of the email alert sent to the SOC Analyst, containing the critical "What, Where, and When" details without needing to log into the dashboard.*
-![SOC Email Alert](5-SOC-Alert-Email.png) 
+![SOC Email Alert](./Key-Screenshots/5-SOC-Alert-Email.png)
+
 ---
 ### Future Improvements
 To further evolve this project into an enterprise-grade monitoring solution, the following enhancements are planned:
@@ -106,3 +107,12 @@ This project proves my ability to:
 3.  **Automate** repetitive analyst tasks using API integrations, directly translating to improved **Mean Time to Respond (MTTR)** in a professional SOC environment.
 
 These skills—infrastructure management, detection engineering, and automation logic—are directly applicable to the daily responsibilities of a **SOC Analyst** and showcase a readiness to contribute effectively to a security operations team.
+
+---
+---
+
+### Resources and Documentation
+
+To review the full build process and configuration details
+
+* **Complete Process Screenshots:** [Full Screenshot Process](screenshots/README.md)
