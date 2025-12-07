@@ -118,4 +118,4 @@ These skills—infrastructure management, detection engineering, and automation 
 
 To review the full build process and configuration details
 
-* **Complete Process Screenshots:** [Full Screenshot Process](screenshots/README.md)
+* **Complete Process Screenshots:** [Full Screenshot Process](./Full-Screenshot-Process)
