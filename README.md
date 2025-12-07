@@ -89,7 +89,7 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 
 #### 5. Analyst Notification: Real-Time Email
 *An example of the email alert sent to the SOC Analyst, containing the critical "What, Where, and When" details without needing to log into the dashboard.*
-![SOC Email Alert](./Key-Screenshots/5-SOC-Alert-Email.png)
+![SOC Email Alert](./Key-Screenshots/5-Final-Analyst-Notification.png)
 
 ---
 
