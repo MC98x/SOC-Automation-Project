@@ -88,7 +88,7 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 ![TheHive Case](./Key-Screenshots/4-TheHive-Case-Alert.png)
 
 #### 5. Analyst Notification: Real-Time Email
-*An example of the email alert sent to the SOC Analyst, containing the critical "What, Where, and When" details without needing to log into the dashboard.*
+*The final output—an enriched alert sent directly to the SOC Analyst. This notification contains the **VirusTotal Verdict** and a direct link to TheHive Case, enabling immediate, data-driven **triage** without dashboard login.*
 ![SOC Email Alert](./Key-Screenshots/5-Final-Analyst-Notification.png)
 
 ---
