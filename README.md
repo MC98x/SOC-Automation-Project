@@ -50,9 +50,12 @@ The primary objective of this project was to build a fully functional, cloud-int
 * **YAML/JSON:** Configuration of filebeat, pipelines, and API integrations
 
 ---
+
 ### Network Architecture Diagram
 to add..
+
 ---
+
 ### Key Results
 
 **1. Automated Threat Intelligence Enrichment**
@@ -89,6 +92,7 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 ![SOC Email Alert](./Key-Screenshots/5-SOC-Alert-Email.png)
 
 ---
+
 ### Future Improvements
 To further evolve this project into an enterprise-grade monitoring solution, the following enhancements are planned:
 * **Active Response:** Configure Wazuh to automatically trigger active response scripts (e.g., isolating the host or killing the malicious process) immediately upon detecting a high-severity threat.
@@ -108,7 +112,6 @@ This project proves my ability to:
 
 These skills—infrastructure management, detection engineering, and automation logic—are directly applicable to the daily responsibilities of a **SOC Analyst** and showcase a readiness to contribute effectively to a security operations team.
 
----
 ---
 
 ### Resources and Documentation
