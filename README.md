@@ -55,7 +55,7 @@ The primary objective of this project was to build a fully functional, cloud-int
 
 *This diagram illustrates the logical and physical connectivity of the security stack, showing the flow of telemetry (Sysmon logs) from the Windows 11 endpoint to the Wazuh Manager, and the subsequent orchestration of alerts through Shuffle.*
 
-![SOC Automation Project Diagram](./Key-Screenshots/SOC-Automation-Project-Diagram-v3.drawio.png)
+![SOC Automation Project Diagram](./Key-Screenshots/SOC-Automation-Project-Diagram-v3.png)
 
 ---
 
