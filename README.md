@@ -88,11 +88,11 @@ The automation workflow reduced the time between "Attack Execution" and "Analyst
 
 #### 4. The Response: TheHive Case Management
 *The final output where the incident is logged. The alert includes the enriched data (VirusTotal score) allowing for immediate triage decisions.*
-![TheHive Case](./Key-Screenshots/4-TheHive-Case-Alert.png)
+![TheHive Case](./Key-Screenshots/4-TheHive-Case-Alert-v2.png)
 
 #### 5. Analyst Notification: Real-Time Email
 *The final output—an enriched alert sent directly to the SOC Analyst. This notification contains the **VirusTotal Verdict** and a direct link to TheHive Case, enabling immediate, data-driven **triage** without dashboard login.*
-![SOC Automation Project Diagram](./Key-Screenshots/5-Final-Analyst-Notifications.png)
+![SOC Automation Project Diagram](./Key-Screenshots/5-Final-Analyst-Notification-v2.png)
 
 ---
 
