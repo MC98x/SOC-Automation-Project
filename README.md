@@ -59,8 +59,6 @@ The primary objective of this project was to build a fully functional, cloud-int
 
 ---
 
----
-
 ### Key Results
 
 **1. Automated Threat Intelligence Enrichment**
