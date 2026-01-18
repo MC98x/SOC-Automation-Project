@@ -20,7 +20,7 @@
 ## Screenshots / Evidence
 
 ### Workflow Diagram
-![SOC Automation Project Diagram](./Key-Screenshots/SOC-Automation-Project-V4.drawio.png)
+![SOC Automation Project Diagram](./Key-Screenshots/SOC-Automation-Project-Diagram-V4.drawio.png)
 
 ### Attack Simulation
 ![Mimikatz Execution](./Key-Screenshots/1-Mimikatz-Execution.png)
